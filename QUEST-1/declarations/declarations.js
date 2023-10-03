@@ -1,3 +1,4 @@
+/* The code is declaring and initializing several variables and freezing objects. */
 const escapeStr = "\' \` \\ \/ \""
 const arr = [4, '2']
 Object.freeze(arr)
@@ -19,6 +20,10 @@ const nested = {
 }
 
 
+/**
+ * The `deepfreeze` function recursively freezes all properties of an object, making it immutable.
+ * @returns The `deepfreeze` function is returning the frozen version of the input object.
+ */
 const deepfreeze = obj => {
     Object.keys(obj).forEach(prop => {
         if (typeof obj[prop] === 'object') deepfreeze(obj[prop])
