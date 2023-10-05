@@ -28,7 +28,7 @@ quest09=("verydisco" "verydisco-forever" "tell-me-how-many" "tell-me-who" "tell-
 mkdir quest07
 cd quest07
 
-for element in "${quest07[@]}"
+for element in "${quest01[@]}"
 do
     wget --no-verbose https://learn.zone01dakar.sn/git/root/public/raw/branch/master/subjects/${element}/README.md
 

@@ -1,0 +1,13 @@
+quest07:
+    ☐ invert
+    ☐ pick-omit
+    ☐ fusion
+    ☐ manipulate-values
+    ☐ manipulate-keys
+    ☐ manipulate-entries
+    ☐ curry-entries
+    ☐ deep-copy
+    ☐ replica
+    ☐ pronoun
+    ☐ neuron
+    ☐ flagger
