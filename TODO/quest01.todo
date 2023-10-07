@@ -12,9 +12,11 @@
 ✔ "biggie-smalls" @started(23-10-05 16:35) @done(23-10-05 16:40) @lasted(5m4s)
 ✔ "method-man" @started(23-10-05 16:40) @done(23-10-05 16:48) @lasted(8m8s)
 ✔ "abs" @started(23-10-05 16:48) @done(23-10-05 17:34) @lasted(46m22s)
-☐ "min-max" @started(23-10-05 17:34)
-☐ "sign" 
-☐ "is" 
-☐ "physics" 
+✔ "min-max" @started(23-10-05 17:34) @done(23-10-05 17:42) @lasted(8m)
+✔ "sign" @started(23-10-05 17:42) @done(23-10-05 18:02) @lasted(20m9s)
+☐ "is" @started(23-10-05 18:02)
+☐ "physics" @started(23-10-06 12:28)
 ☐ "collections" 
 ☐ "block-chain"
+
+Archive:

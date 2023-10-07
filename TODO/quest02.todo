@@ -1,10 +1,10 @@
 quest02:
-    ☐ repeat
-    ☐ elementary
-    ☐ index-of
-    ☐ slicer
-    ☐ keep-cut
-    ☐ cut-corners
+    ✔ repeat @started(23-10-06 12:46) @done(23-10-06 12:55) @lasted(9m21s)
+    ✔ elementary @started(23-10-06 12:55) @done(23-10-06 13:36) @lasted(41m57s)
+    ✔ index-of @started(23-10-06 13:36) @done(23-10-06 14:27) @lasted(51m9s)
+    ✔ slicer @started(23-10-06 14:27) @done(23-10-07 16:31) @lasted(1d2h4m25s)
+    ✔ keep-cut @started(23-10-07 16:31) @done(23-10-07 16:42) @lasted(11m5s)
+    ✔ cut-corners @started(23-10-07 16:42) @done(23-10-07 17:06) @lasted(24m14s)
     ☐ reverser
     ☐ unbreakable
     ☐ chunky
