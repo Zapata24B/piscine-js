@@ -5,9 +5,9 @@ quest02:
     ✔ slicer @started(23-10-06 14:27) @done(23-10-07 16:31) @lasted(1d2h4m25s)
     ✔ keep-cut @started(23-10-07 16:31) @done(23-10-07 16:42) @lasted(11m5s)
     ✔ cut-corners @started(23-10-07 16:42) @done(23-10-07 17:06) @lasted(24m14s)
-    ☐ reverser
-    ☐ unbreakable
-    ☐ chunky
+    ✔ reverser @started(23-10-09 14:23) @done(23-10-09 14:23) @lasted(53s)
+    ✔ unbreakable @started(23-10-09 14:23) @done(23-10-09 14:41) @lasted(18m45s)
+    ✔ chunky @started(23-10-09 14:41) @done(23-10-09 14:48) @lasted(7m30s)
     ☐ nasa
     ☐ molecules-cells
     ☐ get
