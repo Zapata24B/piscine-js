@@ -8,11 +8,11 @@ quest02:
     ✔ reverser @started(23-10-09 14:23) @done(23-10-09 14:23) @lasted(53s)
     ✔ unbreakable @started(23-10-09 14:23) @done(23-10-09 14:41) @lasted(18m45s)
     ✔ chunky @started(23-10-09 14:41) @done(23-10-09 14:48) @lasted(7m30s)
-    ☐ nasa
-    ☐ molecules-cells
-    ☐ get
-    ☐ triangle
-    ☐ pyramid
-    ☐ flat
+    ✔ nasa @started(23-10-10 17:09) @done(23-10-10 17:09) @lasted(33s)
+    ✔ molecules-cells @started(23-10-10 17:09) @done(23-10-10 17:19) @lasted(10m26s)
+    ✔ get @started(23-10-10 17:19) @done(23-10-10 17:25) @lasted(6m9s)
+    ✔ triangle @started(23-10-10 17:25) @done(23-10-10 17:31) @lasted(6m26s)
+    ✔ pyramid @started(23-10-10 17:31) @done(23-10-10 17:44) @lasted(13m27s)
+    ✔ flat @started(23-10-10 17:49) @done(23-10-10 17:49) @lasted(46s)
     ☐ finc-expression
     ☐ sums
