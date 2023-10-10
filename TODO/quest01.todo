@@ -14,9 +14,9 @@
 ✔ "abs" @started(23-10-05 16:48) @done(23-10-05 17:34) @lasted(46m22s)
 ✔ "min-max" @started(23-10-05 17:34) @done(23-10-05 17:42) @lasted(8m)
 ✔ "sign" @started(23-10-05 17:42) @done(23-10-05 18:02) @lasted(20m9s)
-☐ "is" @started(23-10-05 18:02)
-☐ "physics" @started(23-10-06 12:28)
-☐ "collections" 
+✔ "is" @started(23-10-05 18:02) @done(23-10-10 16:40) @lasted(4d22h38m41s)
+✔ "physics" @started(23-10-06 12:28) @done(23-10-10 16:47) @lasted(4d4h19m9s)
+✔ "collections" @started(23-10-10 16:47) @done(23-10-10 16:57) @lasted(10m18s)
 ☐ "block-chain"
 
 Archive:
