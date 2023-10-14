@@ -14,5 +14,5 @@ quest02:
     ✔ triangle @started(23-10-10 17:25) @done(23-10-10 17:31) @lasted(6m26s)
     ✔ pyramid @started(23-10-10 17:31) @done(23-10-10 17:44) @lasted(13m27s)
     ✔ flat @started(23-10-10 17:49) @done(23-10-10 17:49) @lasted(46s)
-    ☐ finc-expression
-    ☐ sums
+    ✔ find-expression @started(23-10-13 14:46) @done(23-10-13 14:46) @lasted(47s)
+    ☐ sums @started(23-10-13 14:46)
